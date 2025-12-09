@@ -5,7 +5,7 @@ Ores included:
 
 
 Deepslate Coal Ore
-Deepslate Copper Ore
+\nDeepslate Copper Ore
 Deepslate Diamond Ore
 Deepslate Emerald Ore
 Deepslate Gold Ore
