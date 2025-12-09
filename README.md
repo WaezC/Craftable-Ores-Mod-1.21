@@ -5,24 +5,39 @@ Ores included:
 
 
 Deepslate Coal Ore
-\nDeepslate Copper Ore
+
+Deepslate Copper Ore
+
 Deepslate Diamond Ore
+
 Deepslate Emerald Ore
+
 Deepslate Gold Ore
+
 Deepslate Iron Ore
+
 Deepslate Lapis Lazuli Ore
+
 Deepslate Redstone Ore
 
 
 Coal Ore
+
 Copper Ore
+
 Diamond Ore
+
 Emerald Ore
+
 Gold Ore
+
 Iron Ore
+
 Lapis Lazuli Ore
+
 Redstone Ore
 
 
 Nether Gold Ore
+
 Nether Quartz Ore
