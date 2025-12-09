@@ -8,8 +8,8 @@
 		"Hypedapower"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/WaezC/Craftable-Ores-Mod-1.21/tree/master",
+		"sources": "https://github.com/WaezC/Craftable-Ores-Mod-1.21/tree/master"
 	},
 	"license": "MIT",
 	"icon": "assets/craftable-ores-mod/icon.png",
